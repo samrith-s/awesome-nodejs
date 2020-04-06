@@ -695,6 +695,7 @@
 ### Process management
 
 - [PM2](https://github.com/Unitech/pm2) - Advanced Process Manager.
+- [Nodehawk](https://github.com/samrith-s/nodehawk) - Watch your Node server for changes and gracefully restart, cleaning any left over processes.
 - [nodemon](https://github.com/remy/nodemon) - Monitor for changes in your app and automatically restart the server.
 - [node-mac](https://github.com/coreybutler/node-mac) - Run scripts as a native Mac daemon and log to the console app.
 - [node-linux](https://github.com/coreybutler/node-linux) - Run scripts as native system service and log to syslog.
